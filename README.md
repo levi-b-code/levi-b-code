@@ -4,8 +4,9 @@
 
 
 * Estudante de Análise de Desenvolvimento de Sistemas.
-  * Estudante de Inglês
- 
+  * Estudante de Inglês <br><br>
+ ![180962944-4eab68d8-783d-4314-8cd8-f9e8ad95ff11](https://user-images.githubusercontent.com/105580065/185584604-4ce330de-4ef0-4230-bd4f-bf6d007bae96.gif)
+<hr>
 <br>
 
 <div align="center">
@@ -38,5 +39,8 @@
  
  ![Snake animation](https://github.com/levi-b-code/levi-b-code/blob/output/github-contribution-grid-snake.svg) 
  
+ 
+ <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="iamjohnlevi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/iamjohnlevi?trk=profile-badge">Levi Barbosa</a></div>
+              
 </div>
 
