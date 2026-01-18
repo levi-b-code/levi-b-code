@@ -1,4 +1,4 @@
-### Olá eu sou o Levi:
+### Levi aqui:
 
 ![fox_1f98a](https://user-images.githubusercontent.com/105580065/183564328-ed4731fb-c83b-4857-b9bd-870b4fecca9b.png)
 
@@ -41,7 +41,7 @@
 
  
  
- <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="levibcode" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/levibcode?trk=profile-badge">Levi Barbosa</a></div>
+ <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="levibcode" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/levibcode?trk=profile-badge"></a></div>
               
 </div>
 
