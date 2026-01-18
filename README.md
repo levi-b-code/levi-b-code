@@ -4,7 +4,7 @@
 
 
 * Análise de Desenvolvimento de Sistemas.
-  * Auando em segurança da Informação | WAF Manager Accounts <br><br>
+  * Atuando em segurança da Informação | WAF Manager Accounts <br><br>
  ![180962944-4eab68d8-783d-4314-8cd8-f9e8ad95ff11](https://user-images.githubusercontent.com/105580065/185584604-4ce330de-4ef0-4230-bd4f-bf6d007bae96.gif)
 <hr>
 <br>
